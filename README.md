@@ -1,7 +1,6 @@
 # My Wallpaper Collection
 <sub>*Note: Previews are displayed below in low resolution for faster loading.*</sub>
 
-|         |         |
 |---------|---------|
 | <img src="preview/10.jpg" width="400"> | <img src="preview/11.jpg" width="400"> |
 | <img src="preview/12.jpg" width="400"> | <img src="preview/13.jpg" width="400"> |
