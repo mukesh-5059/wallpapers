@@ -11,6 +11,7 @@ cd "$(dirname "$0")" || exit 1
 echo "# My Wallpaper Collection" > "$OUT"
 echo "<sub>*Note: Previews are displayed below in low resolution for faster loading.*</sub>" >> "$OUT"
 echo "" >> "$OUT"
+echo "|         |         |" >> "$OUT"
 echo "|---------|---------|" >> "$OUT"
 
 count=0
